@@ -97,9 +97,9 @@ hit tag가 이동가능 포인트일 경우 해당 위치를 이동할 타겟으
 [![youtube](https://user-images.githubusercontent.com/46181173/118114156-2fdf8e80-b422-11eb-87d5-823b2c7b0c71.png)](https://youtu.be/HjjVIltVnp4?t=0s)
 
 ↑ 클릭 [Youtube 이동하기]
-
-## ~~Player Controller Script - PC버젼 컨트롤러 (구현중)~~
 <br> <br>
+## ~~Player Controller Script - PC버젼 컨트롤러 (구현중)~~
+
 ```C#
         //땅에 있는지
         if (controller.isGrounded)
