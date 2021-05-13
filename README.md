@@ -73,8 +73,8 @@ Raycast를 통하여 해당 메뉴 항목에 관련된 함수를 호출한다. <
 
 hit tag가 이동가능 포인트일 경우 해당 위치를 이동할 타겟으로 설정한다.<br><br>
 
-<img src= "https://user-images.githubusercontent.com/46181173/118110075-ee001980-b41c-11eb-9f7f-915c5eb40286.png" width=40% height=40% >
-<img src= "https://user-images.githubusercontent.com/46181173/118111249-67e4d280-b41e-11eb-8b8c-c4eb01557bcb.png" width=40% height=40% >
+<p>
+<img src= "https://user-images.githubusercontent.com/46181173/118110075-ee001980-b41c-11eb-9f7f-915c5eb40286.png" width=45% height=45% > <img src= "https://user-images.githubusercontent.com/46181173/118111249-67e4d280-b41e-11eb-8b8c-c4eb01557bcb.png" width=45% height=45% >
 
 <img src= "https://user-images.githubusercontent.com/46181173/118111194-53083f00-b41e-11eb-8c51-712f0df09749.png" width=40% height=40% >
 
@@ -91,6 +91,7 @@ hit tag가 이동가능 포인트일 경우 해당 위치를 이동할 타겟으
 
 <img src= "https://user-images.githubusercontent.com/46181173/118111356-8945be80-b41e-11eb-8587-a287a5e14507.png" width=40% height=40% >
 <br><br>
+</p>
 
 [![youtube](https://user-images.githubusercontent.com/46181173/118114156-2fdf8e80-b422-11eb-87d5-823b2c7b0c71.png)](https://youtu.be/HjjVIltVnp4?t=0s)
 
