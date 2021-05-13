@@ -74,22 +74,23 @@ Raycast를 통하여 해당 메뉴 항목에 관련된 함수를 호출한다. <
 hit tag가 이동가능 포인트일 경우 해당 위치를 이동할 타겟으로 설정한다.<br><br>
 
 <p>
-<img src= "https://user-images.githubusercontent.com/46181173/118110075-ee001980-b41c-11eb-9f7f-915c5eb40286.png" width=45% height=45% > <img src= "https://user-images.githubusercontent.com/46181173/118111249-67e4d280-b41e-11eb-8b8c-c4eb01557bcb.png" width=45% height=45% >
+<img src= "https://user-images.githubusercontent.com/46181173/118110075-ee001980-b41c-11eb-9f7f-915c5eb40286.png" width=45% height=45% > 
+<img src= "https://user-images.githubusercontent.com/46181173/118111249-67e4d280-b41e-11eb-8b8c-c4eb01557bcb.png" width=45% height=45% >
 
-<img src= "https://user-images.githubusercontent.com/46181173/118111194-53083f00-b41e-11eb-8c51-712f0df09749.png" width=40% height=40% >
+<img src= "https://user-images.githubusercontent.com/46181173/118111194-53083f00-b41e-11eb-8c51-712f0df09749.png" width=45% height=45% >
 
-<img src= "https://user-images.githubusercontent.com/46181173/118110826-da08e780-b41d-11eb-8f6b-87aeac3246ed.png" width=40% height=40% >
+<img src= "https://user-images.githubusercontent.com/46181173/118110826-da08e780-b41d-11eb-8f6b-87aeac3246ed.png" width=45% height=45% >
 
-<img src= "https://user-images.githubusercontent.com/46181173/118111296-7632ee80-b41e-11eb-9701-5952ad0f868a.png" width=40% height=40% >
+<img src= "https://user-images.githubusercontent.com/46181173/118111296-7632ee80-b41e-11eb-9701-5952ad0f868a.png" width=45% height=45% >
 
-<img src= "https://user-images.githubusercontent.com/46181173/118110916-f6a51f80-b41d-11eb-9b69-6ac900ac6176.png" width=40% height=40% >
+<img src= "https://user-images.githubusercontent.com/46181173/118110916-f6a51f80-b41d-11eb-9b69-6ac900ac6176.png" width=45% height=45% >
 
-<img src= "https://user-images.githubusercontent.com/46181173/118110971-07ee2c00-b41e-11eb-96cc-c6b3cb72e9a3.png" width=40% height=40% >
-<img src= "https://user-images.githubusercontent.com/46181173/118110993-11779400-b41e-11eb-8a47-43a85ec38ecf.png" width=40% height=40% >
+<img src= "https://user-images.githubusercontent.com/46181173/118110971-07ee2c00-b41e-11eb-96cc-c6b3cb72e9a3.png" width=45% height=45% >
+<img src= "https://user-images.githubusercontent.com/46181173/118110993-11779400-b41e-11eb-8a47-43a85ec38ecf.png" width=45% height=45% >
 
-<img src= "https://user-images.githubusercontent.com/46181173/118111051-22c0a080-b41e-11eb-9942-83e62acff735.png" width=40% height=40% >
+<img src= "https://user-images.githubusercontent.com/46181173/118111051-22c0a080-b41e-11eb-9942-83e62acff735.png" width=45% height=45% >
 
-<img src= "https://user-images.githubusercontent.com/46181173/118111356-8945be80-b41e-11eb-8587-a287a5e14507.png" width=40% height=40% >
+<img src= "https://user-images.githubusercontent.com/46181173/118111356-8945be80-b41e-11eb-8587-a287a5e14507.png" width=45% height=45% >
 <br><br>
 </p>
 
