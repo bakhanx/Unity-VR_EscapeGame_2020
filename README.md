@@ -11,6 +11,8 @@
 
 ## Menu Script
 
+![menu](https://user-images.githubusercontent.com/46181173/118109733-877afb80-b41c-11eb-81e6-309f4082a023.png)
+
 ```C#
         RaycastHit hit;
         Vector3 forward = transform.TransformDirection(Vector3.forward) * 1000;
@@ -28,6 +30,8 @@
 Raycast를 통하여 해당 메뉴 항목에 관련된 함수를 호출한다. <br><br>
 
 ## MovePoint Script
+
+![movepoint](https://user-images.githubusercontent.com/46181173/118109559-53073f80-b41c-11eb-86f6-b20f594d8ad9.png)
 
 ```C#
         player.GetComponent<CharacterController>();
@@ -66,8 +70,9 @@ Raycast를 통하여 해당 메뉴 항목에 관련된 함수를 호출한다. <
 ```
 
 hit tag가 이동가능 포인트일 경우 해당 위치를 이동할 타겟으로 설정한다.<br><br>
+![1](https://user-images.githubusercontent.com/46181173/118110075-ee001980-b41c-11eb-9f7f-915c5eb40286.png){: width="50%" height="50%"}
 
-## ~~Player Controller Script - PC버젼 구현중~~
+## ~~Player Controller Script - PC버젼 컨트롤러===~~
 
 ```C#
         //땅에 있는지
