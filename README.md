@@ -98,7 +98,7 @@ hit tag가 이동가능 포인트일 경우 해당 위치를 이동할 타겟으
 
 ↑ 클릭 [Youtube 이동하기]
 
-## ~~Player Controller Script - PC버젼 컨트롤러 (구현중) ~~
+## ~~Player Controller Script - PC버젼 컨트롤러 (구현중)~~
 
 ```C#
         //땅에 있는지
